@@ -4,7 +4,7 @@
 <img src="images/screenShot0.png"  height="350" width="650" >
 <br />
 <br />
-<img src="images/pongAi.GIF" height="350" width="650" >
+<img src="images/pongAi.GIF" height="250" width="450" >
 
 <br />
 
