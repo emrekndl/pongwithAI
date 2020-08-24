@@ -1,24 +1,14 @@
 ## Pong Game with AI
 <br />
 <p align="center">
-<img src="images/screenShot0.png" align="left" height="350" width="650" >
-<img src="images/pongAi.GIF" align="right" height="350" width="650" >
-</p>
+<img src="images/screenShot0.png"  height="350" width="650" >
+<br />
+<br />
+<img src="images/pongAi.GIF" height="350" width="650" >
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+
 <!-- :) -->
 
 
