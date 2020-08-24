@@ -1,9 +1,9 @@
 ## Pong Game with AI
 <br />
-
+<p align="center">
 <img src="images/screenShot0.png" align="left" height="350" width="650" >
-
 <img src="images/pongAi.GIF" align="right" height="350" width="650" >
+</p>
 
 <br />
 <br />
@@ -20,6 +20,7 @@
 <br />
 <br />
 <!-- :) -->
+
 
 ### Installing
 
